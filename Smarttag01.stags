@@ -19,8 +19,12 @@
 			"scanOnePerPage": false,
 			"info": {},
 			"methods": {},
-			"validators": [],
-			"extractors": [],
+			"validators": [
+				"validate01"
+			],
+			"extractors": [
+				"extract01"
+			],
 			"disabled": false,
 			"description": "",
 			"image": ""
