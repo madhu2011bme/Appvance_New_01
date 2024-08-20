@@ -131,7 +131,7 @@
         <accessor type='JQuery' value='byJQuery(&apos;.checkout_info &gt; .form_group&apos;).xy(0.25, 0.79 )' selected='false' fallback='true'></accessor>
       </dialect>
     </step>
-    <step action='include' value='' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='ab5c0ce3-540c-454e-b2aa-e7a236710db1' uiType='base'>
+    <step action='include' value='' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='6d17196d-775e-41ec-82ce-705bd3a0e4f7' uiType='base'>
       <dialect type='sahi'>
         <accessor type='filePath' value='"{ds}/New_demo.ds"' selected='true' fallback='true'></accessor>
       </dialect>
@@ -212,7 +212,7 @@
         <accessor type='JQuery' value='byJQuery(&apos;input[value="1r"]&apos;)' selected='false' fallback='true'></accessor>
       </dialect>
     </step>
-    <step action='include' value='' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='936f692c-f6c3-4ec0-8b04-d91e70446226' uiType='base'>
+    <step action='include' value='' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='5bab7e9d-fd00-45f7-b97c-0aa6b3f2cbeb' uiType='base'>
       <dialect type='sahi'>
         <accessor type='filePath' value='"{ds}/Javascript_New_demo.js"' selected='true' fallback='true'></accessor>
       </dialect>
