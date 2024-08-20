@@ -29,5 +29,15 @@
 	"actions": [],
 	"customTags": [],
 	"validators": [],
-	"extractors": []
+	"extractors": [
+		{
+			"name": "extract01",
+			"when": "preAction",
+			"value": "",
+			"type": "text",
+			"variable": "quantity",
+			"disabled": false,
+			"postprocessing": ""
+		}
+	]
 }
