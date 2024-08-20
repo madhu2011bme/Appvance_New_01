@@ -2,7 +2,7 @@
  * @aiq.webdesigner
  * This script requires AIQ Web Designer
 */
-setShadowDOM(true);
+/*setShadowDOM(true);
 navigateTo("https://www.saucedemo.com/");
 setValue(fallback(`textbox(0, _in(div("login_button_container")))`,
    `textbox(0, _in(div({'id':'login_button_container'})))`,
@@ -160,7 +160,7 @@ setValue(fallback(`textbox(1, _in(div("checkout_info_container")))`,
    `textbox({'placeholder':'Last Name'})`,
    `byJQuery('#last-name')`,
    `byJQuery('input[name="lastName"]')`,
-   `byJQuery('input[value="1r"]')`),"R");
+   `byJQuery('input[value="1r"]')`),"R");*/
 click(fallback(`div(4, _in(div("checkout_info_container"))).xy(0.50, 0.44 )`,
    `div(4, _in(div({'id':'checkout_info_container'}))).xy(0.50, 0.44 )`,
    `div("form_group[2]").xy(0.50, 0.44 )`,
