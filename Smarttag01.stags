@@ -3,15 +3,15 @@
 	"smartTags": [
 		{
 			"name": "Newtest",
-			"type": "Navigation",
+			"type": "Text",
 			"tags": [
-				"a"
+				"input"
 			],
 			"rules": [
 				{
 					"weight": 100,
 					"type": "attrContainsValue",
-					"value": "classAPPVANCESPLITTERlist-group-item active"
+					"value": "idAPPVANCESPLITTERquantity"
 				}
 			],
 			"singleton": false,
