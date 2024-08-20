@@ -212,6 +212,11 @@
         <accessor type='JQuery' value='byJQuery(&apos;input[value="1r"]&apos;)' selected='false' fallback='true'></accessor>
       </dialect>
     </step>
+    <step action='include' value='' type='web' desc='' isThinkTime='false' isCommented='false' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='936f692c-f6c3-4ec0-8b04-d91e70446226' uiType='base'>
+      <dialect type='sahi'>
+        <accessor type='filePath' value='"{ds}/Javascript_New_demo.js"' selected='true' fallback='true'></accessor>
+      </dialect>
+    </step>
     <step action='click' value='' type='web' desc='' isThinkTime='false' isCommented='true' sequence='0' hasBreakPoint='false' indentLevel='0' isVisible='true' parentId='' uid='26d7276d-91f4-407b-8834-b74e34091847' uiType='base'>
       <dialect type='sahi'>
         <accessor type='Parent' value='div(4, _in(div("checkout_info_container"))).xy(0.50, 0.44 )' selected='true' fallback='true'></accessor>
