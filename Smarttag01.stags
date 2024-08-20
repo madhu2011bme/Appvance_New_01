@@ -28,7 +28,20 @@
 	],
 	"actions": [],
 	"customTags": [],
-	"validators": [],
+	"validators": [
+		{
+			"name": "validate01",
+			"when": "postAction",
+			"operator": "staticText",
+			"type": "",
+			"value": "",
+			"target": "$quantity",
+			"where": "presentWholePage",
+			"locator": "",
+			"disabled": false,
+			"postprocessing": ""
+		}
+	],
 	"extractors": [
 		{
 			"name": "extract01",
